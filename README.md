@@ -41,7 +41,7 @@ At the moment the editor preview does not correspond to the real preview.
 
 ### Preview
 
-![alt text](https://github.com/mnsavag/piko-server-nestjs/blob/master/api-preview.png?raw=true)
+![alt text](https://github.com/mnsavag/piko-server-.NET/blob/master/api-preview.png?raw=true)
 
 ## Database view
 
